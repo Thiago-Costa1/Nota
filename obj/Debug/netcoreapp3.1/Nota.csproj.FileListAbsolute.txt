@@ -1,0 +1,13 @@
+C:\Users\washi\Desktop\Nota\bin\Debug\netcoreapp3.1\Nota.exe
+C:\Users\washi\Desktop\Nota\bin\Debug\netcoreapp3.1\Nota.deps.json
+C:\Users\washi\Desktop\Nota\bin\Debug\netcoreapp3.1\Nota.runtimeconfig.json
+C:\Users\washi\Desktop\Nota\bin\Debug\netcoreapp3.1\Nota.runtimeconfig.dev.json
+C:\Users\washi\Desktop\Nota\bin\Debug\netcoreapp3.1\Nota.dll
+C:\Users\washi\Desktop\Nota\bin\Debug\netcoreapp3.1\Nota.pdb
+C:\Users\washi\Desktop\Nota\obj\Debug\netcoreapp3.1\Nota.csprojAssemblyReference.cache
+C:\Users\washi\Desktop\Nota\obj\Debug\netcoreapp3.1\Nota.AssemblyInfoInputs.cache
+C:\Users\washi\Desktop\Nota\obj\Debug\netcoreapp3.1\Nota.AssemblyInfo.cs
+C:\Users\washi\Desktop\Nota\obj\Debug\netcoreapp3.1\Nota.csproj.CoreCompileInputs.cache
+C:\Users\washi\Desktop\Nota\obj\Debug\netcoreapp3.1\Nota.dll
+C:\Users\washi\Desktop\Nota\obj\Debug\netcoreapp3.1\Nota.pdb
+C:\Users\washi\Desktop\Nota\obj\Debug\netcoreapp3.1\Nota.genruntimeconfig.cache
